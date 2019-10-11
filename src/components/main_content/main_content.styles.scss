@@ -1,0 +1,15 @@
+.main-content {
+    padding-top: 3rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.listings-container {
+    flex-grow: 3;
+}
+
+.filter-sidebar {
+    flex-grow: 1;
+}
